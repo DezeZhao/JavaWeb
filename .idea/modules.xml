@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cookie_Session/Cookie_Session.iml" filepath="$PROJECT_DIR$/Cookie_Session/Cookie_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EL_JSTL/EL_JSTL.iml" filepath="$PROJECT_DIR$/EL_JSTL/EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filter_Listener/Filter_Listener.iml" filepath="$PROJECT_DIR$/Filter_Listener/Filter_Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery/JQuery.iml" filepath="$PROJECT_DIR$/JQuery/JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScript/JavaScript.iml" filepath="$PROJECT_DIR$/JavaScript/JavaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginCase/LoginCase.iml" filepath="$PROJECT_DIR$/LoginCase/LoginCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat/Tomcat.iml" filepath="$PROJECT_DIR$/Tomcat/Tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xml/Xml.iml" filepath="$PROJECT_DIR$/Xml/Xml.iml" />
+    </modules>
+  </component>
+</project>
